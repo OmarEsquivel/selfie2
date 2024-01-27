@@ -1,0 +1,39 @@
+body{
+background: linear-gradient(rgb(49, 1, 9), rgb(107, 1, 19), rgb(247, 2, 43), rgb(252, 0, 42));
+}
+h1{
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold; 
+    color: lightcoral;
+}
+h4{
+    color:palevioletred;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+    border:1px solid pink;
+}
+img{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 lightsalmon;
+}
+.column{
+    display: inline;
+    padding: 10px;
+}
+img:hover{
+    border-radius: 140px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: plum;
+    bottom: 0;
+    width: 100%;
+    background-color: #27010c;
+    line-height: 3;
+    text-align: center;
+ }
